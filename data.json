@@ -3,7 +3,7 @@
         "nombre": "Wicked",
         "descripcion": "Wicked nos invita a explorar la tierra de Oz antes de que Dorothy llegara. La historia gira en torno a dos jóvenes mujeres, Elphaba y Glinda, que inicialmente parecen tener nada en común: Elphaba es una bruja de piel verde, impulsiva y con un fuerte sentido de justicia, mientras que Glinda es la popular, encantadora y rubia chica que todos adoran. Sin embargo, a lo largo de la obra, su amistad enfrenta pruebas mientras se ven envueltas en la intrincada red política de Oz, con la ambición, el poder y el miedo moldeando su destino. A medida que los conflictos escalan, Elphaba se convierte en la temida Malvada Bruja del Oeste, mientras que Glinda es elevada a la posición de Bruja Buena. La historia desafía las nociones de lo que es bueno y malo, y examina las complejidades de la moralidad y el destino.",
         "fecha": "2003",
-        "signo": "2000",
+        "signo": "años2000",
         "foto": "Portada1.jpg",
         "fotos": ["Wicked-1.jpg", "Wicked-2.jpg", "Wicked-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -12,7 +12,7 @@
         "nombre": "Hamilton",
         "descripcion": "En Hamilton, el creador Lin-Manuel Miranda reinventa la historia de Alexander Hamilton, un inmigrante de origen humilde que se convirtió en uno de los padres fundadores de Estados Unidos. A través de ritmos de hip-hop, R&B y rap, el musical desentraña la ambición y la vida turbulenta de Hamilton, su amistad con figuras como George Washington, y su compleja rivalidad con Aaron Burr, quien eventualmente lo mata en un duelo. La historia no solo celebra los logros de Hamilton, sino que también expone sus fracasos, tanto personales como políticos, mostrando a un hombre apasionado, brillante y defectuoso. La producción utiliza un elenco multicultural, rompiendo barreras raciales y modernizando la historia estadounidense para una audiencia contemporánea.",
         "fecha": "2015",
-        "signo": "2010",
+        "signo": "años2010",
         "foto": "img/Portada2.jpg",
         "fotos": ["Hamilton-1.jpg", "Hamilton-2.jpg", "Hamilton-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -21,7 +21,7 @@
         "nombre": "Sweeney Todd",
         "descripcion": "Sweeney Todd es un thriller gótico que sigue la historia de Benjamin Barker, un hombre injustamente encarcelado que regresa a Londres bajo el nombre de Sweeney Todd, dispuesto a vengarse de quienes destruyeron su vida. Instalado como barbero en Fleet Street, se une a la Sra. Lovett, una panadera cuya tienda está al borde del fracaso. Su alianza pronto toma un giro macabro cuando Sweeney comienza a asesinar a sus clientes, mientras que la Sra. Lovett convierte los cadáveres en pasteles de carne que resultan sorprendentemente populares entre el público. La obra explora la venganza y la locura en un ambiente oscuro y siniestro, con una partitura inquietante y melodías que persiguen al espectador mucho después de que el telón cae.",
         "fecha": "1979",
-        "signo": "1980",
+        "signo": "años1980",
         "foto": "img/Portada3.jpg",
         "fotos": ["Sweeney-Todd-1.jpg", "Sweeney-Todd-2.jpg", "Sweeney-Todd-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -30,7 +30,7 @@
         "nombre": "Falsettos",
         "descripcion": "Ambientado en los años 80, Falsettos es una conmovedora exploración de la familia y las relaciones en un contexto de cambio y crisis. La historia sigue a Marvin, un hombre que, tras admitir que es gay, deja a su esposa Trina y a su hijo para estar con su amante Whizzer. Aunque busca una “familia perfecta”, Marvin se encuentra atrapado en una red de conflictos con su exesposa, su amante y su hijo. A medida que el VIH/sida emerge como una amenaza devastadora, los personajes deben enfrentar sus miedos y encontrar fuerza en la vulnerabilidad y el amor. El musical no solo representa una época crucial para la comunidad LGBTQ+, sino que destaca el poder de la familia en sus formas más inesperadas.",
         "fecha": "1992",
-        "signo": "1990",
+        "signo": "años1990",
         "foto": "img/Portada4.jpg",
         "fotos": ["Falsettos-1.jpg", "Falsettos-2.jpg", "Falsettos-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -39,7 +39,7 @@
         "nombre": "The Phantom of the Opera",
         "descripcion": "The Phantom of the Opera es una historia de amor y obsesión que se desarrolla en la Ópera de París. Christine Daaé, una joven y talentosa soprano, es cortejada por un misterioso ser conocido como el Fantasma, quien habita en las catacumbas del teatro y la considera su musa. Con una apariencia desfigurada, el Fantasma se oculta del mundo, pero desarrolla una pasión incontrolable por Christine, lo que lleva a una tragedia en su intento de ganarse su amor. La producción es conocida por su icónica música, incluyendo la famosa canción “The Music of the Night”, y por sus elaborados efectos especiales, especialmente el memorable candelabro que cae en la escena culminante.",
         "fecha": "1988",
-        "signo": "1980",
+        "signo": "años1980",
         "foto": "img/Portada5.jpg",
         "fotos": ["The-Phantom-of-the-Opera-1.jpg", "The-Phantom-of-the-Opera-2.jpg", "The-Phantom-of-the-Opera-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -48,7 +48,7 @@
         "nombre": "The Book of Mormon",
         "descripcion": "Este musical cómico sigue a dos misioneros mormones, el idealista Elder Price y el entusiasta pero torpe Elder Cunningham, quienes son enviados a Uganda. Allí, en un entorno ajeno a sus valores, se enfrentan a las crudas realidades de la pobreza, el VIH y los conflictos locales. Mientras intentan compartir su fe, se dan cuenta de que sus creencias y doctrinas se ven desafiadas de formas inesperadas. Con un tono satírico y humor irreverente, *The Book of Mormon* explora la religión, el fanatismo y el choque cultural con un enfoque ingenioso y provocador.",
         "fecha": "2011",
-        "signo": "2010",
+        "signo": "años2010",
         "foto": "img/Portada6.jpg",
         "fotos": ["The-Book-of-Mormon-1.jpg", "The-Book-of-Mormon-2.jpg", "The-Book-of-Mormon-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -57,7 +57,7 @@
         "nombre": "Kinky Boots",
         "descripcion": "Basada en una historia real, *Kinky Boots* sigue a Charlie Price, un joven que hereda la fábrica de zapatos de su padre y lucha por mantenerla a flote. En una inesperada alianza, conoce a Lola, una drag queen que necesita calzado especial para sus presentaciones. Juntos, idean un plan para fabricar “kinky boots” (botas sexys y resistentes), lo que no solo revive el negocio, sino que también les ayuda a ambos a desafiar estereotipos y encontrar confianza en sí mismos.",
         "fecha": "2013",
-        "signo": "2010",
+        "signo": "años2010",
         "foto": "img/Portada7.jpg",
         "fotos": ["Kinky-Boots-1.jpg", "Kinky-Boots-2.jpg", "Kinky-Boots-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -66,7 +66,7 @@
         "nombre": "Somethings Rotten",
         "descripcion": "Ambientado en el Renacimiento, *Something Rotten!* sigue a los hermanos Nick y Nigel Bottom, dos dramaturgos que luchan por encontrar el éxito en el competitivo mundo teatral, dominado por el deslumbrante y talentoso William Shakespeare. Cuando un adivino les predice que el futuro del teatro es el musical, los hermanos deciden crear la primera obra de este tipo. La historia mezcla referencias modernas con el contexto de época, mientras se burla de las convenciones del teatro musical y el exceso de su creador. Con un tono cómico y exagerado, el musical celebra y parodia el arte teatral.",
         "fecha": "2015",
-        "signo": "2010",
+        "signo": "años2010",
         "foto": "img/Portada8.jpg",
         "fotos": ["Somethins-Rotten-1.jpg", "Somethings-Rotten-2.jpg", "Somethins-Rotten-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -75,7 +75,7 @@
         "nombre": "Bands Visit",
         "descripcion": "En The Band’s Visit, una pequeña banda de músicos de la policía egipcia llega accidentalmente a un remoto pueblo israelí. Con pocas opciones para regresar, los miembros de la banda se ven obligados a pasar la noche en el pueblo, donde interactúan con los residentes locales, descubriendo en el proceso puntos en común inesperados y el poder de la conexión humana. A través de interacciones simples y momentos de introspección, los personajes revelan su soledad y sus sueños, destacando cómo la música y la empatía pueden trascender las barreras culturales y lingüísticas. Este musical ganó el Tony al Mejor Musical en 2018 y es celebrado por su sutileza y enfoque humano.",
         "fecha": "2017",
-        "signo": "2010",
+        "signo": "años2010",
         "foto": "img/Portada9.jpg",
         "fotos": ["Bands-Visit-1.jpg", "Bands-Visit-2.jpg", "Bands-Visit-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -84,7 +84,7 @@
         "nombre": "Waitress",
         "descripcion": "Basado en la película homónima de 2007, Waitress sigue a Jenna Hunterson, una mesera y pastelera talentosa atrapada en un matrimonio abusivo. Jenna sueña con escapar de su vida y encuentra consuelo en la creación de pasteles únicos que expresan sus emociones. Cuando queda embarazada inesperadamente, comienza una relación amorosa con su médico, el Dr. Pomatter, y con la ayuda de sus amigas, descubre la fuerza para cambiar su vida y buscar la felicidad. Este musical celebra la valentía y la búsqueda de la identidad en medio de la adversidad, con una emotiva partitura de Sara Bareilles que captura las alegrías y luchas de Jenna.",
         "fecha": "2016",
-        "signo": "2010",
+        "signo": "años2010",
         "foto": "img/Portada10.jpg",
         "fotos": ["Waitress-1.jpg", "Waitress-2.jpg", "Waitress-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -93,7 +93,7 @@
         "nombre": "HadesTown",
         "descripcion": "Hadestown es una reinvención moderna de los mitos griegos de Orfeo y Eurídice, en un mundo distópico e industrial. Eurídice, en busca de sustento, llega al subterráneo de Hades y Persephone, mientras Orfeo emprende un viaje para rescatarla. La obra explora temas de amor, sacrificio y esperanza en medio de un sistema opresivo. La partitura mezcla folk, jazz y blues, mientras los personajes se enfrentan a dilemas de vida y muerte. Ganador de múltiples premios Tony, *Hadestown* aborda la lucha por el amor y la humanidad, incluso en los entornos más oscuros.",
         "fecha": "2019",
-        "signo": "2010",
+        "signo": "años2010",
         "foto": "img/Portada11.jpg",
         "fotos": ["HadesTown-1.jpg", "HadesTown-2.jpg", "HadesTown-3.jpg"],
         "github": "https://github.com/kimccartney"
@@ -102,7 +102,7 @@
         "nombre": "Heathers",
         "descripcion": "Inspirado en la película de culto de 1989, Heathers sigue a Veronica Sawyer, una adolescente que navega el brutal mundo social de su escuela secundaria, dominada por el despiadado trío de chicas conocidas como “las Heathers”. Cuando Veronica se enamora del oscuro y peligroso J.D., los dos inician una serie de eventos cada vez más trágicos y violentos. *Heathers* explora temas de presión social, la lucha por la identidad y la mortalidad juvenil en un tono oscuro y cómico. El musical combina humor negro y crítica social, mostrando los extremos a los que los adolescentes pueden llegar en busca de aceptación y poder.",
         "fecha": "2014",
-        "signo": "2010",
+        "signo": "años2010",
         "foto": "himg/Portada12.jpg",
         "fotos": ["Heathers-1.jpg", "Heathers-2.jpg", "Heathers-3.jpg"],
         "github": "https://github.com/kimccartney"
