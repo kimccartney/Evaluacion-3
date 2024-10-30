@@ -5,7 +5,11 @@
         "fecha": "2003",
         "signo": "años2000",
         "foto": "Portada1.jpg",
-        "fotos": ["Wicked-1.jpg", "Wicked-2.jpg", "Wicked-3.jpg"],
+        "fotos": [
+            "Wicked-1.jpg",
+            "Wicked-2.jpg",
+            "Wicked-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -14,7 +18,11 @@
         "fecha": "2015",
         "signo": "años2010",
         "foto": "img/Portada2.jpg",
-        "fotos": ["Hamilton-1.jpg", "Hamilton-2.jpg", "Hamilton-3.jpg"],
+        "fotos": [
+            "Hamilton-1.jpg",
+            "Hamilton-2.jpg",
+            "Hamilton-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -23,7 +31,11 @@
         "fecha": "1979",
         "signo": "años1980",
         "foto": "img/Portada3.jpg",
-        "fotos": ["Sweeney-Todd-1.jpg", "Sweeney-Todd-2.jpg", "Sweeney-Todd-3.jpg"],
+        "fotos": [
+            "Sweeney-Todd-1.jpg",
+            "Sweeney-Todd-2.jpg",
+            "Sweeney-Todd-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -32,7 +44,11 @@
         "fecha": "1992",
         "signo": "años1990",
         "foto": "img/Portada4.jpg",
-        "fotos": ["Falsettos-1.jpg", "Falsettos-2.jpg", "Falsettos-3.jpg"],
+        "fotos": [
+            "Falsettos-1.jpg",
+            "Falsettos-2.jpg",
+            "Falsettos-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -41,7 +57,11 @@
         "fecha": "1988",
         "signo": "años1980",
         "foto": "img/Portada5.jpg",
-        "fotos": ["The-Phantom-of-the-Opera-1.jpg", "The-Phantom-of-the-Opera-2.jpg", "The-Phantom-of-the-Opera-3.jpg"],
+        "fotos": [
+            "The-Phantom-of-the-Opera-1.jpg",
+            "The-Phantom-of-the-Opera-2.jpg",
+            "The-Phantom-of-the-Opera-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -50,7 +70,11 @@
         "fecha": "2011",
         "signo": "años2010",
         "foto": "img/Portada6.jpg",
-        "fotos": ["The-Book-of-Mormon-1.jpg", "The-Book-of-Mormon-2.jpg", "The-Book-of-Mormon-3.jpg"],
+        "fotos": [
+            "The-Book-of-Mormon-1.jpg",
+            "The-Book-of-Mormon-2.jpg",
+            "The-Book-of-Mormon-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -59,7 +83,11 @@
         "fecha": "2013",
         "signo": "años2010",
         "foto": "img/Portada7.jpg",
-        "fotos": ["Kinky-Boots-1.jpg", "Kinky-Boots-2.jpg", "Kinky-Boots-3.jpg"],
+        "fotos": [
+            "Kinky-Boots-1.jpg",
+            "Kinky-Boots-2.jpg",
+            "Kinky-Boots-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -68,7 +96,11 @@
         "fecha": "2015",
         "signo": "años2010",
         "foto": "img/Portada8.jpg",
-        "fotos": ["Somethins-Rotten-1.jpg", "Somethings-Rotten-2.jpg", "Somethins-Rotten-3.jpg"],
+        "fotos": [
+            "Somethins-Rotten-1.jpg",
+            "Somethings-Rotten-2.jpg",
+            "Somethins-Rotten-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -77,7 +109,11 @@
         "fecha": "2017",
         "signo": "años2010",
         "foto": "img/Portada9.jpg",
-        "fotos": ["Bands-Visit-1.jpg", "Bands-Visit-2.jpg", "Bands-Visit-3.jpg"],
+        "fotos": [
+            "Bands-Visit-1.jpg",
+            "Bands-Visit-2.jpg",
+            "Bands-Visit-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -86,7 +122,11 @@
         "fecha": "2016",
         "signo": "años2010",
         "foto": "img/Portada10.jpg",
-        "fotos": ["Waitress-1.jpg", "Waitress-2.jpg", "Waitress-3.jpg"],
+        "fotos": [
+            "Waitress-1.jpg",
+            "Waitress-2.jpg",
+            "Waitress-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
     {
@@ -95,16 +135,24 @@
         "fecha": "2019",
         "signo": "años2010",
         "foto": "img/Portada11.jpg",
-        "fotos": ["HadesTown-1.jpg", "HadesTown-2.jpg", "HadesTown-3.jpg"],
+        "fotos": [
+            "HadesTown-1.jpg",
+            "HadesTown-2.jpg",
+            "HadesTown-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
     },
-        {
+    {
         "nombre": "Heathers",
         "descripcion": "Inspirado en la película de culto de 1989, Heathers sigue a Veronica Sawyer, una adolescente que navega el brutal mundo social de su escuela secundaria, dominada por el despiadado trío de chicas conocidas como “las Heathers”. Cuando Veronica se enamora del oscuro y peligroso J.D., los dos inician una serie de eventos cada vez más trágicos y violentos. *Heathers* explora temas de presión social, la lucha por la identidad y la mortalidad juvenil en un tono oscuro y cómico. El musical combina humor negro y crítica social, mostrando los extremos a los que los adolescentes pueden llegar en busca de aceptación y poder.",
         "fecha": "2014",
         "signo": "años2010",
         "foto": "himg/Portada12.jpg",
-        "fotos": ["Heathers-1.jpg", "Heathers-2.jpg", "Heathers-3.jpg"],
+        "fotos": [
+            "Heathers-1.jpg",
+            "Heathers-2.jpg",
+            "Heathers-3.jpg"
+        ],
         "github": "https://github.com/kimccartney"
-    },
+    }
 ]
