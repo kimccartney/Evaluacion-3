@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>🐢 Kimberly McCartney</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body class="text-bg-info bg-opacity-50">
+    <div class="collapse text-bg-info" id="navbarHeader">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-md-7 py-4">
+                    <h4>About</h4>
+                    <p class="text-white">Find everything you need from Broadway show tickets to information on Broadway performances and Broadway theatres in New York City and beyond.</p>
+                </div>
+                <div class="col-sm-4 offset-md-1 py-4">
+                    <h4>Contact</h4>
+                    <ul class="list-unstyled">
+                        <li><a href="https://broadwaydirect.com/" target="_blank" class="text-white">Visit Website</a></li>
+                        <li><a href="https://www.instagram.com/broadwaydirect/" target="_blank" class="text-white">Follow on Instagram</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="navbar navbar-dark bg-info">
+        <div class="container">
+            <a href="#" class="navbar-brand d-flex align-items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-music-note-beamed" viewBox="0 0 16 16">
+                    <path d="M6 13c0 1.105-1.12 2-2.5 2S1 14.105 1 13s1.12-2 2.5-2 2.5.896 2.5 2m9-2c0 1.105-1.12 2-2.5 2s-2.5-.895-2.5-2 1.12-2 2.5-2 2.5.895 2.5 2" />
+                    <path fill-rule="evenodd" d="M14 11V2h1v9zM6 3v10H5V3z" />
+                    <path d="M5 2.905a1 1 0 0 1 .9-.995l8-.8a1 1 0 0 1 1.1.995V3L5 4z" />
+                </svg>
+                <strong>Musicals NYC</strong>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </div>
+
+    <header class="container">
+        <h1 class="display-1 my-3" id="titulo"></h1>
+        <select class="form-select my-3">
+            <option value="todos">Todos</option>
+            <option value="años1980">Década 1980</option>
+            <option value="años1990">Década 1990</option>
+            <option value="años2000">Década 2000</option>
+            <option value="años2010">Década 2010</option>
+        </select>
+    </header>
+
+    <div class="container text-center">
+        <main class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-6" id="principal"></main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <script>
+        // Asignar el nombre del sitio
+        const nombre = "BROADWAY MUSICALS";
+        document.getElementById("titulo").innerText = nombre;
+
+        const principal = document.getElementById("principal");
+        const seleccion = document.querySelector("select");
+
+        // Función para cargar datos desde el archivo JSON local
+        async function cargarDatos() {
+            try {
+                const consulta = await fetch("https://raw.githubusercontent.com/kimccartney/Evaluacion-3/refs/heads/main/data.json");
+                const data = await consulta.json();
+                console.log(data);
+
+                data.forEach((d, i) => {
+                    principal.innerHTML += `
+                        <div class="${d.signo} col mb-3">
+                            <div class="card text-bg-info">
+                                <img src="${d.foto}" class="card-img-top" alt="${d.fecha}">
+                                <div class="card-body">
+                                    <p class="card-text">
+                                        <a href="single.html?data=${i}" class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover stretched-link">${d.nombre}</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>`;
+                });
+
+                seleccionables();
+            } catch (error) {
+                console.error(error);
+            }
+        }
+
+        function seleccionables() {
+            seleccion.addEventListener("change", (e) => {
+                document.querySelectorAll(".col").forEach((t) => t.classList.add("d-none"));
+                const valor = e.target.value;
+                if (valor !== "todos") {
+                    document.querySelectorAll(`.${valor}`).forEach((t) => t.classList.remove("d-none"));
+                } else {
+                    document.querySelectorAll(".col").forEach((t) => t.classList.remove("d-none"));
+                }
+            });
+        }
+
+        cargarDatos();
+    </script>
+</body>
+</html>
+
